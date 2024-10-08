@@ -1,0 +1,1 @@
+export const lista = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
